@@ -2,7 +2,7 @@
 
 ## Demo & Walkthrough
 
-🎬 **[Watch the Demo & Code Walkthrough on Loom](https://www.loom.com/share/5c3494b8afea4761b48e3eb270c54b8f)**
+🎬 **[Watch the Demo & Code Walkthrough on Loom](https://www.loom.com/share/9504eb87b92947d0875b41f2942cc9a6)**
 
 Equipment finance loan broker platform. Brokers submit applications; the system matches them against lender credit policies and returns approve/decline decisions with explanations.
 
